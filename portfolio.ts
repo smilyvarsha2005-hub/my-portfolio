@@ -23,43 +23,39 @@ export const profile = {
     linkedin: 'Https://www.linkedin.com/in/bikumandla-varsha-b29a55282',
     github: 'https://github.com/smilyvarsha2005-hub',
   },
-  resumePdf: '',
+  resumePdf: 'BIKUMANDLA VARSHA RESUME.pdf',
   portrait: {
     src: '/assets/portrait-720.webp',
     srcSet: '/assets/portrait-420.webp 420w, /assets/portrait-720.webp 720w, /assets/portrait-1100.webp 1100w',
-    alt: 'Portrait of Sushmita Dasari',
+    alt: 'Portrait of Bikumandla Varsha',
   },
-  interests: ['System Design', 'Cloud Computing (AWS)', 'Machine Learning'],
+  interests: ['Java Full Stack ', 'Cloud Computing (AWS& DevOps)'],
 };
 
 export const education = [
   {
-    school: 'Aditya Engineering College',
-    place: 'Surampalem',
-    degree: 'Bachelor of Technology — Artificial Intelligence and Machine Learning',
-    period: 'October 2023 – Present',
-    score: 'CGPA 9.10',
+    school: 'Sr International Instutite Of Technology',
+    degree: 'Bachelor of Technology — Computer Science Engineering',
+    period: 'March 2026',
+    score: '6',
   },
   {
-    school: 'Sri Chaitanya Junior College',
-    place: 'Kakinada',
-    degree: 'BIEAP — MPC',
-    period: 'June 2021 – May 2023',
-    score: 'Score 925/1000',
+    school: ' Narayana Junior College',
+    place: 'Hyderabad',
+    degree: 'MPC',
+    period: 'June 2022',
+    score: '60%',
   },
 ];
 
 export const experience = [
   {
-    company: 'Technical Hub Pvt Ltd',
-    role: 'Trainee',
-    place: 'Surampalem, AP',
-    period: 'May 2025 – June 2026',
-    points: [
-      'Completed one year of intensive Full-Stack Development (FSD) training covering frontend, backend, database integration, and deployment workflows.',
-      'Developed responsive and functional web applications by implementing user interfaces, server-side logic, and database connectivity.',
-      'Deployed and managed web applications while applying version control, debugging, and end-to-end development practices.',
-    ],
+     school: 'Arabindo High School,
+    place: 'Amangal',
+    degree:Senior Secondary Certificate
+    period: 'June 2020',
+    score: '9.3',
+   ]
   },
 ];
 
