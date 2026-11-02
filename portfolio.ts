@@ -7,23 +7,23 @@
 export type Palette = { from: string; via: string; to: string; accent: string };
 
 export const profile = {
-  fullName: 'Dasari Venkata Ratna Sri Sushmita',
-  displayName: 'Sushmita Dasari',
-  firstName: 'SUSHMITA',
-  seriesTag: 'THE SERIES',
+  fullName: 'Bikumandla Varsha',
+  displayName: 'Varsha ',
+  
+  
   /** Fictional studio card shown at the very start of the opening sequence. */
-  originalLabel: 'A DASARI ORIGINAL',
-  role: 'Full-Stack Developer',
-  tagline: ['Full-Stack Developer', 'AI / ML', 'Java'],
+  originalLabel: 'A Bikumandla ORIGINAL',
+  role: ' Java Full-Stack Developer',
+  tagline: ['Full-Stack Developer' ],
   intro:
-    'A B.Tech Artificial Intelligence & Machine Learning student (CGPA 9.10) and full-stack developer building AI-powered platforms, payment systems and multi-tenant SaaS with Java, Python, React, Node.js and Docker.',
-  location: 'Surampalem, Andhra Pradesh',
-  email: 'sushmitadasari17@gmail.com',
+    'intro:
+  'I am Bikumandla Varsha, a Computer Science Engineering student at SR International Institute of Technology and an aspiring Java Full Stack Developer. I have knowledge of Java, HTML, CSS, JavaScript, backend development, SQL, AWS, and DevOps. I enjoy developing web applications, solving problems, and learning new technologies. I am passionate about building innovative and user-friendly solutions.',',
+  email: 'bikumandlavarsha20@gmail.com',
   links: {
-    linkedin: 'https://www.linkedin.com/in/sushmita-dasari-227a40284/',
-    github: 'https://github.com/Sushmitadasari',
+    linkedin: 'Https://www.linkedin.com/in/bikumandla-varsha-b29a55282',
+    github: 'https://github.com/smilyvarsha2005-hub',
   },
-  resumePdf: '/assets/Sushmita_Dasari_Resume.pdf',
+  resumePdf: '',
   portrait: {
     src: '/assets/portrait-720.webp',
     srcSet: '/assets/portrait-420.webp 420w, /assets/portrait-720.webp 720w, /assets/portrait-1100.webp 1100w',
